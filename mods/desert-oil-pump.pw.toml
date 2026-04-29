@@ -1,0 +1,13 @@
+name = "Desert Oil Pump"
+filename = "oil_pump-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbe469b451a3c1b5471dfad2b337d809f09c3a6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7532463
+project-id = 1445636

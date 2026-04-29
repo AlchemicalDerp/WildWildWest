@@ -1,0 +1,13 @@
+name = "Desert Update (PixelDarks Version)"
+filename = "desert_update-1.2.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68435a69cf533d4b9e1d713605a959af5cdf66b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6695049
+project-id = 1097243

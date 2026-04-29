@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"recipe":"create:crafting/kinetics/windmill_bearing","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"simulated:swivel_bearing","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"create:rotation_speed_controller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cobblestone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

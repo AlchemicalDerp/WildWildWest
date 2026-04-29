@@ -1,0 +1,13 @@
+name = "Desert Pillager Wall"
+filename = "desert_pillager_wall-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c22e931496fb2e581625543812e3c250e25bfb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7037285
+project-id = 1354248
