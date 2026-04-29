@@ -64,6 +64,9 @@
     "inventory_config": true,
     "inventory_connector": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -74,5 +77,8 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "gravestone": {
+    "grave": true
   }
 }

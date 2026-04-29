@@ -17,8 +17,12 @@ file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
 [[files]]
-file = "config/amendments-client.toml"
+file = "config/amendments-client-1.toml.bak"
 hash = "ff90f69fe68d779dbaf2ea164c28d62db787fd8c64cc4e821c8ab3545bd3b79a"
+
+[[files]]
+file = "config/amendments-client.toml"
+hash = "2ed708c88bd2cac36ba9d0a94ddc0ff4eecd985f42bc65c21694267a1af12f7d"
 
 [[files]]
 file = "config/amendments-common.toml"
@@ -77,16 +81,36 @@ file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
 [[files]]
-file = "config/create-client.toml"
+file = "config/copycats-client.toml"
+hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
+
+[[files]]
+file = "config/copycats-server.toml"
+hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
+
+[[files]]
+file = "config/create-client-1.toml.bak"
 hash = "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "1294948463b268551548b987c80e1b1fe63f5974ce1dd7de2a8954fa59d1d7c3"
 
 [[files]]
 file = "config/create-common.toml"
 hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 
 [[files]]
-file = "config/create-server.toml"
+file = "config/create-server-1.toml.bak"
 hash = "d063982581108b8c7ed6c670c4f4a302abe39be7bfeb565de96b8d9d880426cd"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
 file = "config/createdieselgenerators-client.toml"
@@ -189,6 +213,22 @@ file = "config/cristellib/pumpeddesertremake/structure_toggle_config.json5"
 hash = "b15453fd923eaf3f3d47f073f271959df45bbe0b71b2a176be234105a71a2013"
 
 [[files]]
+file = "config/cristellib/repurposed_structures/structure_placement_config.json5"
+hash = "97d2e6e5a0c469cfa39633fb3c342a1fdcc0d10215acadbbc1cdf1e23917e33a"
+
+[[files]]
+file = "config/cristellib/repurposed_structures/structure_toggle_config.json5"
+hash = "f3588cdfe77994e838692839567968f569312d77488d8e239ae2ab91c456a913"
+
+[[files]]
+file = "config/cristellib/supplementaries/structure_placement_config.json5"
+hash = "1175d80fb7e6cd18430c09e50b32c2a888202f2d51368741441dd8e0e1ea05b4"
+
+[[files]]
+file = "config/cristellib/supplementaries/structure_toggle_config.json5"
+hash = "1715fab1db080ca0bd264dce0cb2f8de8218d6e2989d085b0a3cb72b0f8c6225"
+
+[[files]]
 file = "config/cristellib/u_desert/structure_placement_config.json5"
 hash = "6b35eed7aec31162bc8124a46fc83994424a48d16671345f3f5872c5648b4487"
 
@@ -210,7 +250,7 @@ hash = "2f33433f38df628bf545b76e0ae5babe3efe1ad08dae14b6077a44c768072d7f"
 
 [[files]]
 file = "config/euphoria_patcher/data.json"
-hash = "92250314580fb8a332a438b16d0261a0819db5757971dd119ba16d92bfc6483d"
+hash = "2d8d6edcf97dc904d262691c01d1ec959582906f0b2a2793b03b1daed69d9657"
 
 [[files]]
 file = "config/euphoria_patcher/settings.toml"
@@ -218,7 +258,15 @@ hash = "51804b29b4e69931eea7729ec75c9e696d2a7a3e43ec7dd339290da24047abb3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "45c44bafc732ae6ffffc59546b02da646cecee829aadd821a982899b4f46e494"
+hash = "e1923f8ba0e8e8f3e4941ced9160b119995e9fb3e6c52aec3b619b8d2eeeb061"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -227,6 +275,14 @@ hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
 [[files]]
 file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/gravestone-client.toml"
+hash = "6509ae4ffdec69d81c54f5d52e42c6d7d507b68bd019e658486b37908c1a7ed8"
+
+[[files]]
+file = "config/gravestone-server.toml"
+hash = "d6bee13ae45904562fc651630ce48fa4e70cd3853fe2f488403c9b67d0c74c2a"
 
 [[files]]
 file = "config/highlighter.toml"
@@ -238,7 +294,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bd2d9fbb1b8b427b574930f0e2988ea54b7d17c78099f897f8d77edcbb7678a8"
+hash = "9d406dfe0f99724ad667b72f31b2e2fd3a8a8e82f6c989c2b85e53b0c9d66ab2"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -254,11 +310,11 @@ hash = "1b9faa0637ce35640b258cb9a6ede6d7fbe23f3138e1f3e04167caef4f204ecc"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "df5d49c5670ddb8a73849b59a34a854fb5cc9b1b7bfbf2a7582932ea230c4f5b"
+hash = "0ba2bb6083a3eda8ff4e693c66f0a288e96345176e88b6fca1f428e3cbfb5223"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "f37dc1ec89a77f84229b1aa75e13bfee6b4d19b77e219c2076704bac16f0b03b"
+hash = "7e46e8bead6bf2353417d1b855edd38b24e77b7e6b61cdfd9c63c52267715882"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -270,7 +326,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "3d08ce90b2e24d7acc0b1ae955eaee060754275e84adb537685bc9a0e5aad40a"
+hash = "ea7842fed3f822416bc9dce495a4fde340a411a893faa0aa3ffc98644022995d"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -294,11 +350,11 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "7397f20228027e9814284de2ca45db1436c8f00ac29dd6b79dc54f1bf4f8b6a5"
+hash = "3b6b712eb293b0c7a9023ad0f7354ab15db8d5506c85c3a66c1a3711e068c47b"
 
 [[files]]
 file = "config/jei/world/local/New_World/lookupHistory.json"
-hash = "433486bb9c2ccce9b509543e6a040a60ad1644a48f194f153cf0768eb0a67b62"
+hash = "a5e7148cd2bf4ed6e566380742984ff7e0c61d9adb20a1472553f141821c5ad9"
 
 [[files]]
 file = "config/jei/world/local/Test_World/bookmarks.json"
@@ -315,6 +371,10 @@ hash = "cf39b09dd6feae77c606e704d3fe6e99859bbc2976eb1bd7e69f53cc48ef5683"
 [[files]]
 file = "config/jei/world/server/Minecraft_Server_457255ab/lookupHistory.json"
 hash = "6578cf041b36a5a2334d135fe5131cbe19a9f95b449935875d85efe39847f0fa"
+
+[[files]]
+file = "config/legendarytooltips.toml"
+hash = "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
 
 [[files]]
 file = "config/lighty/base.config"
@@ -393,6 +453,10 @@ file = "config/regions_unexplored/common.toml"
 hash = "a41e3e83a5da1740d2cc03e69971bd326f8c8ca4f0e8f63fa544b6ff452a7ad9"
 
 [[files]]
+file = "config/repurposed_structures-neoforge/modded_loot.toml"
+hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
+
+[[files]]
 file = "config/resourceful-config-web.json"
 hash = "4110460b60f9ebf3f5c51df5fba81a089ce0df6f970346c3c31f0873e995729c"
 
@@ -401,8 +465,12 @@ file = "config/sable-client.toml"
 hash = "0abc8a8f2ce730e440521d4d3d2cb45ec475e9d5a0e01e17e74cfbd63a0bd26b"
 
 [[files]]
-file = "config/sable-common.toml"
+file = "config/sable-common-1.toml.bak"
 hash = "5d10408ecdb80544b66bafb2c50a92c7aff961040d60e007c36258fb274b79cb"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "eb7884d0f2cc559b63600f96a9b429511b2db9590d41533380cadb7c41cf2f31"
 
 [[files]]
 file = "config/simplehats.json"
@@ -426,7 +494,7 @@ hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "9a51d4be4848193ce455f599d4644bd3c1ba18edcb1f5c5868029bb3d8a707c9"
+hash = "92964c3abf5f43ef7f67fd6493c26f9799c58fdcf436c8450d720efac3b5f425"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -434,7 +502,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
+hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
@@ -449,12 +517,20 @@ file = "config/sophisticatedbackpacks-common.toml"
 hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
 
 [[files]]
-file = "config/sophisticatedbackpacks-server.toml"
+file = "config/sophisticatedbackpacks-server-1.toml.bak"
 hash = "96144963da6c05968226f960a469e19e11f23202b5f939e73afba7f167813185"
 
 [[files]]
-file = "config/sophisticatedcore-client.toml"
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "dea5ba0fe45846e367b8cf77277bb4484089da699c43759a90d37486263a30bc"
+
+[[files]]
+file = "config/sophisticatedcore-client-1.toml.bak"
 hash = "fd6a839cea066b06f43b98218aa2c05de89fbd7937666eee786b31200096179f"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
@@ -470,7 +546,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "09806c0e053dcf15788ac7109b360d01e31f08e5712f7f91983f033b7d014a55"
+hash = "97a29cdc18ff9f2daef2ab3f3818efb09114bdb9d4ed56becac5ad7f1cdb3aa1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -491,6 +567,18 @@ hash = "990a61c4e89f51cfcfe710143ace467964c7112adc5c183de5a080e2f1e01ac6"
 [[files]]
 file = "config/steampowered-common.toml"
 hash = "cea4ab3acf68ed0fad3a228ff892a7eca50601244d68f2ea1b116e06a60e7540"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "bf2b1a9bafdf64e51819968431d0472e47a5ca311c528a526bf76b0b63fb6e10"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "76509eed51fb4284bf2d7a76c6c54bd33467d3bb416c907cedbc5a89186fa567"
+
+[[files]]
+file = "config/suppsquared-common.toml"
+hash = "a3440b61fdcd1dabfd525863005b3da7b281aab793a9a15ffa94d69b34f46449"
 
 [[files]]
 file = "config/tacz-client.toml"
@@ -919,6 +1007,10 @@ hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
 metafile = true
 
 [[files]]
+file = "mods/aerocopycats-1.1.0.jar"
+hash = "7a3c2e1b21dffabc5681522bc8dbbe275e73d8f96d01e0dbc57e115fb61f63bb"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
@@ -993,8 +1085,14 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-bundled-1.21.1-1.0.2.jar"
-hash = "509ddde6439d3d51e2227839c39510dbab9575cb16cbafaaf4d730704b84eed1"
+file = "mods/copycats.pw.toml"
+hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+metafile = true
 
 [[files]]
 file = "mods/create-big-contraptions.pw.toml"
@@ -1038,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -1111,6 +1209,16 @@ hash = "dae5c756a77911c18cba191b9844a3b9c20bcdd3dd55de13fc57cf9fe3b79bbe"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "3e92a40a7d790339afb8438366c5d4590a5113873dc7e434a4f8357cc07bb80a"
+metafile = true
+
+[[files]]
 file = "mods/feur-extension-desert.pw.toml"
 hash = "77bacc77120639b9800469e10489b3cbbc938c58fb6fc2393c71b38108c572f2"
 metafile = true
@@ -1123,6 +1231,10 @@ hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
+
+[[files]]
+file = "mods/gravestone-neoforge-1.21.1-1.0.35.jar"
+hash = "86961d4c628344545492c0a4c45c92fd1ea9d8db6863174d0be49d9edccb23b1"
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -1155,13 +1267,18 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "90884d8e75897120ad7e7a6fc4ad3ab2a08bcf050286a98cac27c7412e043a68"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "5af0a9561e5ab538be1c7e843b54101852830db48c0dad561965de1bfea9a584"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "0c92a3670d2a7a0f013ca6741b75bd8b87c363eb3595d0d43a750b5fb09bf210"
+hash = "daae831820f5b1c8ac4618fc8c44bc6336809e9889bce7c184eaf6c7d927f14f"
 metafile = true
 
 [[files]]
@@ -1172,6 +1289,11 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
+metafile = true
+
+[[files]]
+file = "mods/more-delight-forge.pw.toml"
+hash = "0b8eedf9c3e3e7da662a4f2678e8ce8551121999b1302a29b143aabf09d7dd37"
 metafile = true
 
 [[files]]
@@ -1200,6 +1322,11 @@ hash = "79c1e8f90db5559d703ab7a43227573d74a8de59232c6c8bee348a582967e741"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "5328219480c6d7aa255c6288f2839b683ffc1bcc52449383244cd11cfbf85f83"
+metafile = true
+
+[[files]]
 file = "mods/project-1519112.pw.toml"
 hash = "b411476e20d88709203e173f0f2da47efe4e7773e08e460e54d4ec0885aaf5d3"
 metafile = true
@@ -1225,13 +1352,23 @@ hash = "e837a18c91a9fbe9e5d24afb89b9841baae433ae733570984a22b3e9d1603d6d"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-farmers-delight-compat-mod.pw.toml"
+hash = "491004187034b4fda65b99d19f19efab14100760ae4ce080f5e454277c3e3351"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "9dce62b44fc9c9cdd9e9c1c50946dbde3581978d4ddadd397340bf9d2b9354f1"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e363a4de151dda6ea2bb6e5bacf7181de2e4206e9f6c27191398d888e72329aa"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
 metafile = true
 
 [[files]]
@@ -1274,12 +1411,12 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.21.1-3.25.40.1677.jar"
-hash = "c640120e16df67f0d441a7e96994722dad38f9cb7776ac7c1cb0c1efe0ce8e2c"
+file = "mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar"
+hash = "3b9155b2836d99856fab610c9e28e48724bc2f10c17d2529a6af55d476378390"
 
 [[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.24.1680.jar"
-hash = "e54e4ea5b04760cb3d115a63f40d7c38c63c70d57850512347371aba7d559521"
+file = "mods/sophisticatedcore-1.21.1-1.4.32.1794.jar"
+hash = "46fefc1f14cd52d000b71b0997e3ed4986f87b53e1317dc9f8637025d7085708"
 
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
@@ -1310,8 +1447,18 @@ hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "36a9973a4f3cd5aef77cf4199ff1a3e243c36a379b6c83c789a2ed7ceddd6986"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
+metafile = true
+
+[[files]]
 file = "mods/tacz-1-21-1.pw.toml"
-hash = "95f7bc9541189543dccafaedac8128fd2404d92bc73c028d33771f3e225308ba"
+hash = "c0510fe7f574dee65b557f9650cdcfdf8d3ef0babaf7506a938a5b52e073e961"
 metafile = true
 
 [[files]]
@@ -1380,198 +1527,6 @@ hash = "44eafb40b7e4a47a64542bfaf5a25aa38badefb97493e159c6778e8fc652b89a"
 [[files]]
 file = "tacz/tacz_default_gun/README.txt"
 hash = "a6ed777c38fa7e0a13242416d6c12d06c398357becc6cbdcc5c66d855634c310"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/aa12.animation.json"
-hash = "37a7316ab7dfb794292fb52ae77f8bb0057f3e5764fc3c91326d9fc8a1b405cf"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/ai_awp.animation.json"
-hash = "490f9ea0a7af3100fa9c5dd7e861e8d8ffeeb1e69810b1b6daa63a0ec3852126"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/ak47.animation.json"
-hash = "7e0d694219cb118161cafce858a224abc68d6e27a1700fad010486cee3a2f782"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/aug.animation.json"
-hash = "a01e45cc642ad4e1722f537e5bb3841b97d02865a471eb084f159bc6f2badc85"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/b93r.animation.json"
-hash = "c0d487237ac120ff1572a3d1d45ee23bf40339cd45355015d04d84babf9048fa"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/cz75.animation.json"
-hash = "832e1c91852bb9c24c1b15d2700cf6f98ac45f42d87100233b3029c1c7fd473c"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/db_long.animation.json"
-hash = "109ab690a753cf4de402682a31dafd2d1e3e632030722fb15ae79d67bb5bd1c2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/db_short.animation.json"
-hash = "328ac73b4dfd477d665794b9da5f274d27eb1cab287aee12064568ec91745518"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/deagle.animation.json"
-hash = "dd19d414584e58774e8cce1f90bfcb0ff65dd2abc0779fc520899f1569e7be43"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/deagle_golden.animation.json"
-hash = "497b40836031d3cd31b28c04fa226e43e25db214765ac2ce6a36ebbb600bf871"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/fn_evolys.animation.json"
-hash = "1bb1ad178627e49e6add4150902503cee13b51f4a2d615a90d233f7dcb2d13a0"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/fn_fal.animation.json"
-hash = "94d4a25ae4e2a6a43c6d56057937745b5facf935bf65898c108c7c2822630a3b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/g36k.animation.json"
-hash = "7280615b3ece5db522e8234f67d7f67a2e2046374c5923274b5796916ff32170"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/glock_17.animation.json"
-hash = "dc0a753b302dcd646e2112ec2950006f9db714d3ca97458d9c571a000046a1a7"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/hk416a5.animation.json"
-hash = "5974535cd004735dbea70df7f552cb235a46a65788b67b0812b86c9c1b6b1e7c"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/hk416d.animation.json"
-hash = "d0be409a476808786e1b4815b96d222be8d68b910a2e228e2d89239887c4cb88"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/hk_g3.animation.json"
-hash = "5475a38243cd53310e98b22bc6e88a76c00662e0d32db3b945da19083b18d68b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/hk_mp5a5.animation.json"
-hash = "f40bdb11d3d7d381cbdb60968adb82a7c31b4578970662a49238835781e272f1"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m1014.animation.json"
-hash = "38f0ca8ee4847150b3f5aa5f8531bbfeef5a99ece46391bb9a76424eaaaf1957"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m107.animation.json"
-hash = "f710b4697b49432488ba07786a21dc23990ecad8177e3d66b5acb98a069d2634"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m16a1.animation.json"
-hash = "a6d3cd278305c2a6dadbefe7f3a9beac1ff8c82f5a9e5304fe847788edd387cb"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m16a4.animation.json"
-hash = "351d5d3d4e14a717632e508a7267ff0f7a65eaf849b5e9920645d860a4af709a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m1911.animation.json"
-hash = "9016458ec1dde9a0e89f0b665f5bb7888fb8d254caaa6d4bc796d6fe31e9af8f"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m249.animation.json"
-hash = "35425612cd100e6a809b04652a4933bfbf09f836898ac9bcfb1e655f9d101c51"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m320.animation.json"
-hash = "04aae2d5cfa65f696ddf8a2783d8093b6b9b53ee4cdbeca3ebb32e48125a14a3"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m4a1.animation.json"
-hash = "3614bd8688bdae52ce13b30e8894284552a664fa61cdfb39a5acb19794fae719"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m700.animation.json"
-hash = "11dc1848a1440e13f0ce9ed470db07c1668b2bbcc4c861f159b16302a1d9878b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m870.animation.json"
-hash = "b0cb2400e8e2fe6d31e1c044347c63e9ae362fa36a30852e455e8538ef5385e7"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/m95.animation.json"
-hash = "99f1ab535dd3cd73500365a6ba959a5e80ec7788e7e4f114142dfbe4612f282f"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/minigun.animation.json"
-hash = "c9c7d284842bdb2ddb0b4894f245aa0c12eefe258f2d00527c4aae845b35a56a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/mk14.animation.json"
-hash = "c8608430f648976c7766c7e747510fb3abc905be7ca1f0481db9b625af108ac5"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/p320.animation.json"
-hash = "8034ddca6e1bc87efcc6dcd8ea34ee6f0087565be0faf6e8095d94159d4f2ea8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/p90.animation.json"
-hash = "a3d3cc935cf13caa64cb0e65e88e967892bc70054d2b577fb292abf1d0b5e8e2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/qbz_191.animation.json"
-hash = "4dcf374e5ba88df125882b4572ec7dc4e84a39821032259b781255deed96ae28"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/qbz_95.animation.json"
-hash = "7e261bdcaa12f9a3578a858455a26b2b7e3b594bb781ad90d2419154aad44812"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/rpg7.animation.json"
-hash = "6e3f9436e3208e25e18c6bd5331b7376ad014513a38beb1d2694a55f311ad877"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/rpk.animation.json"
-hash = "2241806e866d0ff03bb9be5988a38c07004107ed82e81ca2c1380b3542386b6d"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/scar_h.animation.json"
-hash = "f78941b3b40c2543fe47e1b9067b81b15c506fde0dffd6a001788eadcc924576"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/scar_l.animation.json"
-hash = "bd82ef8ad841ff736862a3841bdb1fd0c96a489f6d0b643d4855812b8736ec10"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/sks_tactical.animation.json"
-hash = "9e75ec652d2c37c42cca3ef1c9f6bf897b567bdd0d35e903415cf1fd15afcaac"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/spas_12.animation.json"
-hash = "f31d559d02ea207ff731bc97f99d95f51c98240e2f31af788bd2ce9945f76a48"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/spr15hb.animation.json"
-hash = "c0cfeac465c5a4905af2109816f80687c9e34adb01d9ce1d8b2962b84c0e6ce2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/springfield1873.animation.json"
-hash = "5f4e5011f70e0262d8d9e957c41bb6bcb6cda493b1f018fe67d9f16f0c5b8224"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/timeless50.animation.json"
-hash = "2c20c6a74d52ec903512fa5e8c94da5a3b51203bea27de4036ca64a676b56df3"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/type_81.animation.json"
-hash = "3af29c08a19c499f9decb61e72b327de30959f4cfc4dd6f46a31ae4811d40a8a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/ump45.animation.json"
-hash = "a769ee44e4f14aba1dd6d6a72eec58bdf723587b52b758a9b61de9fa8208f1f8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/uzi.animation.json"
-hash = "5079c5948093a08c3769fb397cfdd481ea4629f56e66dde08873d7cf1c8c1946"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/animations/vector45.animation.json"
-hash = "656e68f6b16a1be2bc91c535763b3da82d9a5372cb271771be21067bc48eb1d1"
 
 [[files]]
 file = "tacz/tacz_default_gun/assets/tacz/display/ammo/12g_display.json"
@@ -1672,38 +1627,6 @@ hash = "e07150c939e211ac863e3d6f1848dabd3de319ea7fde6bd36c73aeb92bcca30d"
 [[files]]
 file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo/12g.json"
 hash = "f13b31c04304a9969e20566cdfce3b8e24fb0fc1d30be457a3403d5e5e20fb43"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo/308.json"
-hash = "4d9f3683ee63c3ec623b9c12ea19e267e342e428250741418278388ab5df4512"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo/338.json"
-hash = "8554510f7f9f6178dcd76bcfb331372e2a53fac2cb14abf41697d545609e7978"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo/40mm_grenade.json"
-hash = "9f7f944cb3452ea1cda8edab7c82b3bba8bbc5563f5405d52727889ac1225904"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo/45acp.json"
-hash = "9ec95e3ee55e3423ee6a1f6842e76480be54b39d4343c79274b39930ac6d47ba"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo/762x39.json"
-hash = "896c0410b696465b8f1e3d7c8771ea1bc328d2013340e0c34a58566fbfc4b67d"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo/9mm.json"
-hash = "7725ef98eaacd033a60eed34684f4955ea49fb81c2957723c530331d10350486"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo_entity/40mm_grenade.json"
-hash = "a01e1a513b0bbb39198c7405804a31836216d04438ca09804fcb3905301ce125"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/ammo_entity/rpg_rocket.json"
-hash = "a6b98fec2d9c26ad1dceae130de49dadcc2ba11d74db2db6d9aca7393dabcf69"
 
 [[files]]
 file = "tacz/tacz_default_gun/assets/tacz/geo_models/attachment/bayonet_6h3_geo.json"
@@ -2154,456 +2077,8 @@ file = "tacz/tacz_default_gun/assets/tacz/geo_models/block/gun_smith_table.json"
 hash = "ae9d6218114f0fb3a835a4468c5c3c68d5b3ee367795dc3e8bfc03ca144cc4a9"
 
 [[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/aa12_geo.json"
-hash = "2cd71b78d6a2cacc464dfbe167b1e05d4d0fff9893130f55405a551bc05bd17b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/ai_awp_geo.json"
-hash = "60f7484a0cc8e0005c49b6d9336135e730264f722d57695af98f2410a31d7138"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/ak47_geo.json"
-hash = "f2866acea041acdab333249397746f8a2801a3c8b4be8c7d7eebed4ea50c37d5"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/aug_geo.json"
-hash = "7f4fd522e9eb285bafd1708dd0c373520ccad49696f89dc53673d4a9649337f5"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/b93r_geo.json"
-hash = "c7d8ba10b4e6b9998ccba962bd711e97d12880c83139cb5dfacb94b44bd44169"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/cz75_geo.json"
-hash = "4cfbdf8bff2e342a952bfe3302fb7e3b75ea81cabdc8d043c971ba6c6a847a44"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/db_long_geo.json"
-hash = "9b9a7d03b2f763e424c0aa210887dfa9e3659f386cfbd1c06372a7696154f886"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/db_short_geo.json"
-hash = "e460871d5037455dd9d1e12cd162c16d1eb9a4ee4c9f4e931529a33976f074db"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/deagle_geo.json"
-hash = "dc0170e64eb72737cd5baab1da7fa479af42edfe034e4607e2c57a23e1e809ac"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/deagle_golden_geo.json"
-hash = "f4782ead618c4d42d0f1825d7f8b92feedc60e5c8e09a6939628cdd842e1676f"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/fn_evolys_geo.json"
-hash = "b9fd9d12c7ffd1a5cc0c0aa3fb27fbcffd1e45beb3598ccaa5b96eaca3126b06"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/fn_fal_geo.json"
-hash = "9d7c131f4dd655bde8b19fa2f8a46adb69405ce34d1750f38d3ce1349b70ec51"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/g36k_geo.json"
-hash = "59ce8e217cb520fea17b9672a15d52a3604cfaf767dac64b873c761a59680a6b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/glock_17_geo.json"
-hash = "a858619c4c328f66ecae881ebee227bca1b60d043a28561155958024d69e1c1b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/hk416a5_geo.json"
-hash = "573e2bf15eb2b8aa936e5ba0f835b94210ecee3fd3d7f203bed3d6e094a05668"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/hk416d_geo.json"
-hash = "8bde6b93902581db720d9a483858343730003e01090008ff89ca3d55784efcde"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/hk_g3_geo.json"
-hash = "d1575c2e896139d8e5054fbe80a4771290720307229ea4164161137ce886fa87"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/hk_mp5a5_geo.json"
-hash = "4fecda8ab0380fc35e40d7c3f9013989201b5abe7e93a78f080dc0c5fc9a0143"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/aa12.json"
-hash = "548edd9825d08406931cf418a909c26932d4648cf44b11447e5c4040b1404a5f"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/ai_awp.json"
-hash = "f8939288ed80b3a98d0ba051da4524fc5565615c7c57074a31d075f5106913c3"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/ak47.json"
-hash = "63be858f3e2d650e2b2427ca7778f6c5aa852d95c2e31838414fcfb2bf61387a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/aug.json"
-hash = "5611ac2e96be03cf1fa4d356f3a9f0bbb20eba9cd4c7bd4e16358e6fe90422cc"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/b93r.json"
-hash = "763b9a8eae46aef9b1020a1999faf75f5eab77f1382ed0de7b0a07d478ce00a3"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/cz75.json"
-hash = "a8a5927a62c63aa4078230b9d8a1a12098eca1b59a45836f3407132dd1a74f10"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/db_long.json"
-hash = "13d91ef5fada4dbc6a9c91cfa90b36550da7465c6acedda244daf4a33ce7fd7e"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/db_short.json"
-hash = "e62e1c391ad692229249712a39ade262e117b544735c821c65cedac04b53beaf"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/deagle.json"
-hash = "7564c19d2655051f6e807f804a2e02f1ea6b4014937773317937624843145c87"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/deagle_golden.json"
-hash = "7564c19d2655051f6e807f804a2e02f1ea6b4014937773317937624843145c87"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/fn_evolys.json"
-hash = "05b4ece2ff17335e36137fffade24dc97c484359c1d33ff3881e912a814bb92a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/fn_fal.json"
-hash = "162e3aa6efd3c14ae7f2e690ac88e68cae227c5fca98d42ed248f1991b9809f1"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/g36k.json"
-hash = "088453138d6e856242d5ff6ff7f2e5bf2151ffe72ac5d2c91b032971c1de9ad9"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/glock_17.json"
-hash = "761634ec71cf018b7e104d49bd85b0b5a239ffd583049dbbc5d8c23d302be90a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/hk416a5.json"
-hash = "a0eb4f384ae0447002ebdf54455e01f12edff476aa5a970096b7896bdf43da3b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/hk416d.json"
-hash = "7d8262040421f6c07b82f3e6f0354b4e6491af061684909b11694bd5c5c406ef"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/hk_g3.json"
-hash = "ae0c7a82a0a0b051de85cbee43d4d9fdbdc7061865e394fc4c2f09525262822e"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/hk_mp5a5.json"
-hash = "838ffff58f77a681058f2235a5d53f7e034886ff571ad01ee7598925dd23d18a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m1014.json"
-hash = "4cee08e686e431867694f35f5931663b1f0ac38993172aa1fe4bb7ac88a43f28"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m107.json"
-hash = "95f3624219cd408d85203f7f65b951f323f63ae3dfce5cdd68816f6414eb8888"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m16a1.json"
-hash = "fc5f157754606c17c877f717e3857157105e898da1bf5f47ab777c3a3d789a80"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m16a4.json"
-hash = "c690e7e51c134d211f7295430111f48f18a0f5226b8d38f406c6f7a696e450cd"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m1911.json"
-hash = "1d4662408b64945ab8385b0236133e498987ab5dfa8e2b0cc18f0ba2008a1e52"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m249.json"
-hash = "926951a244651e8151b9b5207c81c3f599d681cd72527748c0e55bd4654009f5"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m320.json"
-hash = "10f9a860fdad93c68b7976311c70dd63eb9bb713006e3ce24a777c4d56ed2cb0"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m4a1.json"
-hash = "1377e129a66feebe196029973a0d4b0b93eb387052c70f5d9a5b7834af744ca6"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m700.json"
-hash = "c94d8220f815bd5b1a610527187f569ed94340aece1e7a81e7aef4ff104ca3bd"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m870.json"
-hash = "9af2d724025a03e4eadb90f10bb28aaf7bd641edb5a3ad0f363b3f9980ff2c65"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/m95.json"
-hash = "45253f67ed948dc3b7fa23e4f47050dbfcd2f116b84eb3f5c01197e3d7679791"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/minigun.json"
-hash = "cfc81a85b887275a38c2546b862df5a6fd93b62469acc0b396f8f01b3c8836a5"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/mk14.json"
-hash = "f66fb645c81fd71943a10647569cf7b662b671e303c1bd0f4bed06a61fe544e2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/p320.json"
-hash = "a013e757ea056a33f81e71a9a149c0d0e431b3e913554614587d5c1e2cd56235"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/p90.json"
-hash = "aba98f76cc1b8b6a65c1878239eab5e64fc88f27c80ad90ffb256b62fa484485"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/qbz_191.json"
-hash = "906a5126ec93086ad09de543f6f5f2efadf614fff444489b84949cb74ee01a9e"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/qbz_95.json"
-hash = "e52807c6adbf6558dd864f13b03618124a48fbe341525548e348462c998cff70"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/rpg7.json"
-hash = "0171f49aff258a0c81d4d5e92b9ba9b1667d5bf53001246dc395ea72bc2cc9c2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/rpk.json"
-hash = "27764ded19b6c8da0ce224ecd58492084138521332dbaa26f2115d1efe2bbe23"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/scar_h.json"
-hash = "236a8e1cbb5ecfc4bdb6b08a678b6e3eac62f01baa4a72ff21e0232dc476daa8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/scar_l.json"
-hash = "d5dfeb6652113abce6f292aec0ea80912695df00f2f2bcb3af2eb57280389f07"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/sks_tactical.json"
-hash = "efa8cdc2861412b368c0cb8d1a53304f35ae874d0ea5c670fa6b05854ccff72c"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/spas_12.json"
-hash = "93b3fed4288e3c2dcb624e3d114538d83289bab037b8ff0a9db120065b571dba"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/spr15hb.json"
-hash = "909c27c19803966b026522a61868ccea5cb20639340e8f3a96d08c1eee82b7f2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/springfield1873.json"
-hash = "cd267f0e3d72b1ed46ceded59c78e86a5116298752946fa0e64e4996424976c1"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/timeless50.json"
-hash = "16aa50cee4450c00030911086069a1e0ae321978d861b6844b4065f318ecf7a4"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/type_81.json"
-hash = "ff95897d1c1f2fcf56c60dc7aad2ecad8adffb43322bc6d07c6e028063462556"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/ump45.json"
-hash = "638a9f6562701ec767f1cc2ebfe777d331a06e84a3bbbba4dd6513dea4cb2eef"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/uzi.json"
-hash = "31c721b5f846aebf597a3b6e2cc94bc4a8b0b78ae8be4469c61d90b6c2c30808"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/lod/vector45.json"
-hash = "e89158caa9df962aeb6b78897acecc695ad00e797edaa3b14523c2f07f763fc2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m1014_geo.json"
-hash = "602377b7d6f9c02a6fa49cc99ec37c26625e419d51c7bdc664aae9c8edabc954"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m107_geo.json"
-hash = "e16d8023b2bbe66dccc7fbb442c97617536a48a511fa6ad86d5331b682f618ca"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m16a1_geo.json"
-hash = "c286203fe886dd63aad1aeae4208d8908b2a9210662c330ce3a50d5d5306e0a9"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m16a4_geo.json"
-hash = "502ac9f4f39f33e3d2f15fb8c11efb71a8f86b5a109823ba8497aa7f62450a93"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m1911_geo.json"
-hash = "7f367fea2b29e8153a8b21f87c5bdbd5b55863ec1f6f69b780b7eb663ebc8ffd"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m249_geo.json"
-hash = "b9d17dd0edd624b05b2c42ee841487125665cea7bbd6e1cdb4c6cd18a6b19fd8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m320_geo.json"
-hash = "355af9f55ca14c1a98c428f808062951094c3a4a6bdbf3432fa2b43037a0b903"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m4a1_geo.json"
-hash = "01866f123ac1e2f20b73ae6127f23a2582e65cd8e943f09ffe787e7c8f57f488"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m700_geo.json"
-hash = "b19f75eccece42bd3c65458c36be74e22cbd1d698fb32e14616050e765d3ccd3"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m870_geo.json"
-hash = "634b5e01c1dd926cf20e3d6e1395e49d307fbbd91fcbdfb4951886eea1b1fe48"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/m95_geo.json"
-hash = "dfebf930ffb004cb9168d3a224bcb687e1389dcebe44dcd58765424d8b6fe3c1"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/minigun_geo.json"
-hash = "9921dc04f88aeb14b27ad9250e94bf320d7e9f129375eb7be37538aa027d9c9a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/mk14_geo.json"
-hash = "58bdd0663116e0e23e6289b76bcacda82d53b79d30e8fd83309fa1f0def49db8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/p320_geo.json"
-hash = "28538f4bcdab5404cd97f8d8b49d81896c2ea168a0e1b63523156dcc76cdb813"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/p90_geo.json"
-hash = "917d1d3183cd8f49f8eddd38b18bcafa36062bd77a6da6ab1d1a91ef8cfa46f6"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/qbz_191_geo.json"
-hash = "3734b580537ee2baee5482a3b00a22e80dabaffd7d066008257e6b467d9ac025"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/qbz_95_geo.json"
-hash = "63edac58a9473ecc682815cfe5103ea998d725cd547abdffef64b9e5b55614d6"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/rpg7_geo.json"
-hash = "a5564c496234e01f442dec59ed94eee12aa84f156fc62500f8b22a755b652caa"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/rpk_geo.json"
-hash = "16bbbdfaf363705c6fc91197a7245014bd8a1991164cf4531baa2d4c1633595f"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/scar_h_geo.json"
-hash = "604389569fd178ab8a80ee2ba7f7586cb6d7ceef42a654dc1dee3b9e30fdbf73"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/scar_l_geo.json"
-hash = "10df7e4e9ebc86b6bb578fed801ba07a06263e4ac3358513aafd8009c5f6e6d4"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/sks_tactical_geo.json"
-hash = "b42268a1a2843c672fe4fb17af94c461b835386ba4cd2492514cc90f248827e8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/spas_12_geo.json"
-hash = "1218f7e195bdfab274a126b800629d13d7b02f208f3167d42aae8f9590824a51"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/spr15hb_geo.json"
-hash = "5c4e964c66d2944658d6ab686ead0afb0b4996cad9229cda6dc8b9ec940233d8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/springfield1873_geo.json"
-hash = "6f2d735e1b8407351f98bfbc2c84561b0180073a5b35d7f1e63c0f55be83d77e"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/timeless50_geo.json"
-hash = "2703e384232b721ff2763620a3f65c5221729f47b934d52a8d634cf6583c0dd1"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/type_81_geo.json"
-hash = "77765dfb404a96f10948590e3778bc96a010a58c3e72437c4b6e06b5280bfdfd"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/ump45_geo.json"
-hash = "2fcc5872eeb321d020d7d81dc74d018a2aa71e91d151246b88ce42e29faceeee"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/uzi_geo.json"
-hash = "d3085d48dd67235975b869d23d415568fe8ddbc1619149d812c7b22b53f5a542"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/gun/vector45_geo.json"
-hash = "00d94ea09b5dccd2e3bc973a8768bdbd60aca9572e3ab590853b5146cb038396"
-
-[[files]]
 file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/12g_shell.json"
 hash = "8cfd1286241b064d3959a32e5cae4bfc6526864fc9e2011a4c61e53ed3fd45b0"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/308_shell.json"
-hash = "8bd900936f9271a6cd984964c58c14f54b2c8481c310a0b970e1c670297b74e4"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/30_06_shell.json"
-hash = "8c6778ae317a5df694058d239831badb464b771b4de82fcb8d3377c5806815ac"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/357mag_shell.json"
-hash = "6a01387410483bb2fb81ae36c0080bf1cd50e1439cb407deee928924029d96c0"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/40mm_shell.json"
-hash = "980b78d1c90110515489b670d3b97482802da4567096e339e9c39cc4f2a69106"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/45acp_shell.json"
-hash = "eae9b8a460a72b7bf5ca0517b9073324c2023eeab91ce9a53e7a74ede107e907"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/46x30_shell.json"
-hash = "2a18f298e483862a1d30dac114312954a424da398040392ebb6c0ad42793688d"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/50ae_shell.json"
-hash = "738972afbcd6c67b9700d8ad4079199094d50ead05f778bdb382e2a9f4ad4d03"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/50bmg_shell.json"
-hash = "4fd910e306db136faa920e1114ef1c53f47c775c20351278236990337e617c6b"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/545x39_shell.json"
-hash = "425b53c22f4658f9f5256211050c872136cfd8cc3b95ceb72638e0056763cdab"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/556x45_shell.json"
-hash = "8d7a59a4225ac6183a2c04475599241070cf9e2650d68fbb50239caec852e4bd"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/57x28_shell.json"
-hash = "9f6c1e3dce9e515c5257c53c7ef90f56fb4cc6b2a1b44ae78007ea64deb34655"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/58x42_shell.json"
-hash = "53adefb9ce60943e6aeb92b7f2c0ce9efe7de4bd3a3078507ffb50b5974153a9"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/762x25_shell.json"
-hash = "09746523bdb8b22b621f0ac9dac2b6db74c46282220c9ea44533f61b40a5259e"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/762x39_shell.json"
-hash = "8926d2b9a383bd983d33e5d273b2f738c9cc3841b665bf19b0cbb6da04eef1a2"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/762x54_shell.json"
-hash = "7884e8ea0bd2a4dd4640a2488d1e4261bd531390b766af61dcd2353e8816e13a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/geo_models/shell/9mm_shell.json"
-hash = "cd33f5f5caac581bc02b117a6cb32a79940ec773ca414ebc0c096b101305d9ab"
 
 [[files]]
 file = "tacz/tacz_default_gun/assets/tacz/gunpack_info.json"
@@ -7370,86 +6845,6 @@ file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/12g.png"
 hash = "c681a04148a2054120c927abb38d70f97a5bff0c394481406e77e715a4597224"
 
 [[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/308.png"
-hash = "a74c7df9d132957476346b749f2307b01c4d47981f120bcd8b006f3011380fcd"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/30_06.png"
-hash = "e638414461059f41637ea62ca2ec33957793f34a82bb86abd2826c2bd0494340"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/338.png"
-hash = "1e715a47f726f65af29724f59d3961b49b3eec98cf9cc6dbdbeaa5149ef67db8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/357mag.png"
-hash = "62c683ac0f48cfd03c746d706ca6c20c20f1738d680a7f90c83db154d7f98ac8"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/40mm.png"
-hash = "1589cdfd98c895e9a297c17d4120aaed734facbb26442a0afdec6acec16e6f82"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/45_70.png"
-hash = "dc807585740bca012276c38057ba7598249c8877d200935ce1735ba7234de77c"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/45acp.png"
-hash = "333c1867f57ddb4722b6623f5b026c03f7d1b7086004cb2b019461e84baf521c"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/46x30.png"
-hash = "caec856bdc434d41255b397524b4f1f4efa4a4ec578de8f8a863d04eb3cc2a29"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/50ae.png"
-hash = "df52f81457e8a7d6bb3b37b6fa012c41a8647aad2d9d3c6752cd20fdf54a492f"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/50bmg.png"
-hash = "85a0a3ef69189a7056a7e6ab38b4d02d45ba676bb3c9271b8f8df1630d82491d"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/545x39.png"
-hash = "fcb52dead63d31b46e1457a8d2197ac00a7d2b11ba658781534c7dbe3d198f0d"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/556x45.png"
-hash = "0ebb21a29597a46524c308912426e96b1dc372ebb8d9dc18bd95431bd5673ad7"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/57x28.png"
-hash = "76f2ae8e5eec836e54508211805492cb503981fe4e85d742bdbdd5c751b47681"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/58x42.png"
-hash = "3ef61ea430a372d66eee4f32682358469aab14369504ba531897c6e6d796b0b3"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/68x51fury.png"
-hash = "5beb219e3c0b2f60181cb5c144d1446274e53e6c9f4e15ac6e3b319b53bff275"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/762x25.png"
-hash = "45b5976baa34a083365649371a56db82d5c0bb99388601bfeaf33ece5b193940"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/762x39.png"
-hash = "05f7096e1db00d3f9dcdae03d8cea97a5f8adee8d6f430898b017f2522d41593"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/762x54.png"
-hash = "a42020609aa9a2608a58783f202f480e47b184d9996c05a8c2d4677e8d5c56ec"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/9mm.png"
-hash = "b6880faa82776e7dfcc6a00db8eb80bc6777c4790811d8166f3c2649b9dd811c"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/slot/rpg_rocket.png"
-hash = "163ae96eac110b8f966b8b42155c1e5ef1599afe10188d3875d14e444ec88059"
-
-[[files]]
 file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/12g.png"
 hash = "ed693b1d207445608a35918d0db19a1cae336db0d9d9cf87c580a5357626d4dc"
 
@@ -7460,102 +6855,6 @@ hash = "24dae24f25b65cf5f8e5bb4f5f012ecaba65d918e5cfdee9dcb291ec4872ac80"
 [[files]]
 file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/12g_s.png"
 hash = "094277e930cc905688f0d9ba0a4402d7029503d105d5e581c0c81af61596f4bf"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/308.png"
-hash = "59251079b77e1a1afc7d71eb2eb37630c79f3fd6fc2b6abe6c164312620702ef"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/308_n.png"
-hash = "6a47ac2744de22a2ffccbeaffe47deac9309d416951f0f3be50998d9b4f000ec"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/308_s.png"
-hash = "473c77e908f043782f8beb1aa1fc088808a365cc339bb9985ea6919e4e55669e"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/338.png"
-hash = "ac4451438a9ac17d6db13acb287685291b2c6d94709ae27c1f6383f96740f81a"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/338_n.png"
-hash = "866f0bcb2946c627c5107314968181e7ae6cb77305d2ffeaec65ad0480434154"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/338_s.png"
-hash = "578d8d36e1fd4d1099887bba3cc51207843d20a1a78b15151238c53b4e6ae043"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/40mm.png"
-hash = "a9a972ea9f50f3c9fbb97e48cd68ba0e608a56e193b79d224c027cd0b6ac0baa"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/40mm_n.png"
-hash = "bd61ab0fcc38012f5b446738e099bce1802952956e772b5203d541bb621d389d"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/40mm_s.png"
-hash = "43639880b80d23e0ffaabffe1600364d1ef3d05bc7029f6fbe539ec011875769"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/45acp.png"
-hash = "0c58ad071259b8a55048f5edaef2b1ffae2ef88e59a9e850daa6075c499e45cc"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/45acp_n.png"
-hash = "817e7ba03eea806b7d6bb923c97c127ec7cdfeabbb8d041f285fbd1719b305c1"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/45acp_s.png"
-hash = "d0bc5e6f2a58a57a8ac317145ca4b4da0568ce0afbd8e335dbcd0c55fb69530c"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/762x39.png"
-hash = "3d634b5d8a81084f65633c44c10d420174d12d880a53034871bf223f50879837"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/762x39_n.png"
-hash = "beda963a815bcad9016773401e47a88ec45f01947b129e27d1ffc294dfaa6ccc"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/762x39_s.png"
-hash = "42fa2e01945196a893a006cd962c4f7515883d7eccc846448046a5f25ce6fa33"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/9mm.png"
-hash = "2cc08a457623c8984cbd5037ff61d68cbf00ea50c90250b66a3f931468c3c841"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/9mm_n.png"
-hash = "189635e2438218eaafb329493e75890601f2096a7121112ceed7021105529698"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo/uv/9mm_s.png"
-hash = "616032d71ace444c49416f347d5956757411aebf6263af14fc93b499fc97e1ad"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo_entity/40mm_grenade.png"
-hash = "ee7737b47701103aa1ef51e2da1eae2b5235129c099acf20a664d150ff2088f1"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo_entity/40mm_grenade_n.png"
-hash = "33baa75fd39daae5325c740ab36e92638350b835b35e78365717c80d3febb290"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo_entity/40mm_grenade_s.png"
-hash = "4280d3e367eabfeb1a93ae744aaf35f318741ccb2b56a50b72795be369053d5f"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo_entity/rpg_rocket.png"
-hash = "42da9b42eb0c71a4b08fbca83fd138dcefbe9c95fe2d550d7af9104aafebc89d"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo_entity/rpg_rocket_n.png"
-hash = "39eec2cc2be0d0c5c21b6c1a63f849a89e24900f4611f8d2dbb4ccd5cc2a3c59"
-
-[[files]]
-file = "tacz/tacz_default_gun/assets/tacz/textures/ammo_entity/rpg_rocket_s.png"
-hash = "c4f29a77cc422633654b1ad6b8a6072fb126ab8d3d1f6d3344d15a003441ec41"
 
 [[files]]
 file = "tacz/tacz_default_gun/assets/tacz/textures/attachment/lod/laser_compact.png"
