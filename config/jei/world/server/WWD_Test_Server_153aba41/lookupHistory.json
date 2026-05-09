@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"create_aeronautics_throwable_rope_connector:throwable_rope_connector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"freshified_music_discs:music_disc"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"aeronautics:levitite_blend_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"aeronautics:pearlescent_levitite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"aeronautics:end_stone_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},

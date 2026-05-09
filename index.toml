@@ -9,6 +9,10 @@ file = "config/accessories.json5"
 hash = "a9b5f163d47b0eb22b2ed416bbf6f3c276470ba546396caf6e53879876389d5a"
 
 [[files]]
+file = "config/advancedcrafting-common.toml"
+hash = "99183a43f009eb0158aba5f1d69130c34dc1e98f717fe67c4c3eab322ca18562"
+
+[[files]]
 file = "config/advancementplaques.toml"
 hash = "fccc5bab6156c4c38bcdebf4b21c22488536da5631ba8d8d94e41fd5baaa7cad"
 
@@ -62,7 +66,7 @@ hash = "a1d79ac6e19d2225884edfea50dc0aa70e516b89070a3a8c2c0fa9b79a43b253"
 
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
-hash = "031fd53fcccef9a796fdf0105071de5ca596fbde9ae52630adeede7b79d54b99"
+hash = "c8b42a4900774826b3eefc742f8402f997dbe7e49c10d062202e38a281d47496"
 
 [[files]]
 file = "config/bits_n_bobs-common.toml"
@@ -126,7 +130,7 @@ hash = "f61524e0a910d10bf86482fb1bfd0ab6096827d6dc9c3077f0c0648dc347914e"
 
 [[files]]
 file = "config/create_aeronautics_toolgun-client.properties"
-hash = "8f56c7ecedadc1baad979d528f7af9c600ad9293d5eae4818507d47cb9da4681"
+hash = "00a194fbf98a2a81a452ab7d1e95645c10131a569145a13141cb361eb25a563f"
 
 [[files]]
 file = "config/create_connected-common.toml"
@@ -173,6 +177,14 @@ file = "config/cristellib/built_in_packs.json5"
 hash = "f1be3df3751749fc4f475c886553f4b6b998c1a9f68f7ec33ddebe6909bffb14"
 
 [[files]]
+file = "config/cristellib/campsite/structure_placement_config.json5"
+hash = "ec046892bb2a8759dc981f27559df77b04bdf855b5017859909ae3ef8858026e"
+
+[[files]]
+file = "config/cristellib/campsite/structure_toggle_config.json5"
+hash = "657586006ff10e4f58d74c3e67e9dbc1bf6cbae19ecadefd1b8168e0506c25b3"
+
+[[files]]
 file = "config/cristellib/desert_pillager_wall/structure_placement_config.json5"
 hash = "83fd01ef1165b6c99393dafc388f90efedba8c096d47e0961c712bb34ce7a486"
 
@@ -187,6 +199,14 @@ hash = "a14bdbfa50e17fc8af23ab80efc0285f83f49c7aa19b5608095a08b37e50ea3e"
 [[files]]
 file = "config/cristellib/desert_update/structure_toggle_config.json5"
 hash = "7b852d91a56c2955bd5ee9f6acd2820e8386ffde795d554f862996a03d3daa2a"
+
+[[files]]
+file = "config/cristellib/ecologics/structure_placement_config.json5"
+hash = "b29fd0dff0b111d7d14dbb949fb2f6c693c05472913593d7887f9f6cc0be3d5b"
+
+[[files]]
+file = "config/cristellib/ecologics/structure_toggle_config.json5"
+hash = "e0573803020791aa53656fd30b5192d5366f73e8b5ab315db7f2c2808d129814"
 
 [[files]]
 file = "config/cristellib/feur_extension_desert/structure_placement_config.json5"
@@ -245,6 +265,10 @@ file = "config/cristellib/repurposed_structures/structure_toggle_config.json5"
 hash = "f3588cdfe77994e838692839567968f569312d77488d8e239ae2ab91c456a913"
 
 [[files]]
+file = "config/cristellib/ribbits/structure_toggle_config.json5"
+hash = "ba31cdaff598b49f1f595c5604f7081fcee1a527771079c7aff7aae6014b823a"
+
+[[files]]
 file = "config/cristellib/supplementaries/structure_placement_config.json5"
 hash = "1175d80fb7e6cd18430c09e50b32c2a888202f2d51368741441dd8e0e1ea05b4"
 
@@ -265,12 +289,24 @@ file = "config/cutthrough-client.toml"
 hash = "0f1e7df65dc4fcff84594a708ebed689598dd05dec4cfca38e9f807ca817c5c0"
 
 [[files]]
+file = "config/disccord-client.toml"
+hash = "be3755d91fd3d8176c09fab7138e6a6daa91d7f4fb2703af23cbf3c0e8b44632"
+
+[[files]]
+file = "config/disccord-server.toml"
+hash = "ae7268c6e90cf2ac266ddc00d51852ed65adb6e8c97f1cf194c3fae539d14d62"
+
+[[files]]
 file = "config/dndecor-server.toml"
 hash = "faccba5a94a73907ea094de5145e20fc19219fa761d67aa1688287f40ab2e0c1"
 
 [[files]]
 file = "config/durabilitytooltip-common.toml"
 hash = "2f33433f38df628bf545b76e0ae5babe3efe1ad08dae14b6077a44c768072d7f"
+
+[[files]]
+file = "config/ecologics-common.toml"
+hash = "7a196d3e3e6435eca30e8f76b03f16a5cc938cabfa20155612824fc5690d4c0a"
 
 [[files]]
 file = "config/euphoria_patcher/data.json"
@@ -282,7 +318,7 @@ hash = "51804b29b4e69931eea7729ec75c9e696d2a7a3e43ec7dd339290da24047abb3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "6f8dfac6b24a585d4ee9235ab6f5f9efa67ffba9655b1f037390c16902dfa78d"
+hash = "254a19e2018b121f50b8cbf34270135d1a229f3a16cb2831687d9fc5d6678341"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -305,6 +341,10 @@ file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
 file = "config/gravestone-client.toml"
 hash = "6509ae4ffdec69d81c54f5d52e42c6d7d507b68bd019e658486b37908c1a7ed8"
 
@@ -317,12 +357,20 @@ file = "config/highlighter.toml"
 hash = "8fe25a06991fb387c08663b895898691e0bdbadf4139f6d81748a20372ff32c8"
 
 [[files]]
+file = "config/immersive_paintings/client_config.toml"
+hash = "70cb8deb69ce420df72e90a84f05f3bece7d9bf60b18c556d9dd499521091a52"
+
+[[files]]
+file = "config/immersive_paintings/common_config.toml"
+hash = "65d5ad82d3a8e18bb224d839d757de883c33863e0420c5c0e81661f697b0933e"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "ae699b38b0712b102fa597c72a1c99f445172dc6ac68c5bc18ab62025a84a3a1"
+hash = "d1b41d466800553cca7079cfe623c4aeef21a5235cae4943b675d8b38c078095"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -345,6 +393,10 @@ file = "config/jade/sort-order.json"
 hash = "1a5987b835edb2cfee3fcd57bf2723f6d703f2a66c9ea74c614df6e34d105015"
 
 [[files]]
+file = "config/jamlib/known_suspicious_jars.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 
@@ -354,7 +406,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "83224cc6307ee42ac5a9d9ddac9c0be75b07c9c1d68123720f2dadeac2238a21"
+hash = "87b89df3cc091beaf910cd31767bb914dbc3c24457bdc0fc77bbb02a7f4a8a5d"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -406,7 +458,7 @@ hash = "6f44c606b72f231d060959bc1be66ae653d5b576bc672249fd7424d8f40b0d03"
 
 [[files]]
 file = "config/jei/world/local/world/lookupHistory.json"
-hash = "6c2d3b5b75877311e6e640cbcfdf330cb90de0ebf13899262dde17f15b64da46"
+hash = "22736eb88468775abc25093c116c319ac28c53686c98d244bc176eb9b110838f"
 
 [[files]]
 file = "config/jei/world/server/Minecraft_Server_457255ab/bookmarks.json"
@@ -418,7 +470,7 @@ hash = "6578cf041b36a5a2334d135fe5131cbe19a9f95b449935875d85efe39847f0fa"
 
 [[files]]
 file = "config/jei/world/server/WWD_Test_Server_153aba41/lookupHistory.json"
-hash = "418e3d3da40b208a6c9f27aaffd8721c526f5a918ac65e5603f7f3ce33d7a995"
+hash = "89821a10b26333cd898b3eb803322d785720dc68e4d09e7d009c5fc5bbb2684f"
 
 [[files]]
 file = "config/legendarytooltips.toml"
@@ -447,6 +499,10 @@ hash = "3f252fefef0345f9aa8a8d3b7eff02f045b8bf565329eeba9ec50c7989a63457"
 [[files]]
 file = "config/moonlight-common.toml"
 hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
+
+[[files]]
+file = "config/naturalist-server.toml"
+hash = "6005917de3861bc3ab70a5fcb5f6917f1eba9968e7f90d95df690382dbfc81c2"
 
 [[files]]
 file = "config/natures_spirit-common.toml"
@@ -515,6 +571,18 @@ hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "4110460b60f9ebf3f5c51df5fba81a089ce0df6f970346c3c31f0873e995729c"
+
+[[files]]
+file = "config/ribbits-neoforge-1_21_1.toml"
+hash = "d7426d0b5c3cce1e3be82c6b68bb833efdcde4a52b3b4825502b5b26ee1e8043"
+
+[[files]]
+file = "config/ribbits-options.json"
+hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
+
+[[files]]
+file = "config/rightclickharvest.json5"
+hash = "6eb5169563472ae96184c94e9f42ff7d76fdba403ed3190ffb308e817ea0a21e"
 
 [[files]]
 file = "config/sable-client.toml"
@@ -602,7 +670,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "1c6131345351ceb4f8adcb19395725760e54aba94ce10804bc252b263cce412e"
+hash = "0167c5ff84fc9d515320b28d085a8b2844cff3b4cf04b50a664f8d03c7d98fa5"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -697,6 +765,14 @@ file = "config/vanilla_structures/toggle_structure_config.json5"
 hash = "c4fb220488de3c1afc569f4b8a89d8e97f8b5504eeb59d9700b491f29718d2f9"
 
 [[files]]
+file = "config/vanillabackport-client.toml"
+hash = "52908e6b607acb0132818d29fd7c2fcaf02dbc8b743c509400db8f65f1e00eb1"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "2a6cdea3cb82ae1afc2939b638c6e8f2fed22199947be15bf14ae5ac13c33976"
+
+[[files]]
 file = "config/visualworkbench-client.toml"
 hash = "d4618e607b629668b7f10e8641667c2104799627546173a142f45317f773b7d3"
 
@@ -786,7 +862,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "hotbar.nbt"
-hash = "fe2c91517fd1be297f3fb31544cbb0abcaa81996a1bb274e3c1efc794fa5eaad"
+hash = "af52692acb6d906d4f0eef5d9217caabf04b0a53bf3b8557ffcdcbd859ccdcc5"
 
 [[files]]
 file = "mods/.connector/patch_audit.txt"
@@ -1057,6 +1133,10 @@ file = "mods/.connector/voxy-0.2.14-alpha_mapped_moj_1.21.1.jar.input"
 hash = "46798cbeb941e2033e9cd1eda137184876c8f29ca2d9196b7859ad90cd9b818a"
 
 [[files]]
+file = "mods/DiscCord-1.21.1-1.2.6.jar"
+hash = "fcead87a9522ad4c71ecd27679f9edab0448152d583ec173cae30d42301d44d8"
+
+[[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
@@ -1068,11 +1148,6 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
-metafile = true
-
-[[files]]
-file = "mods/aeronautics-camera-sync.pw.toml"
-hash = "511e03e3df7c881ba5730640507ee2dd49341fe659ea689d01b703fdc6d46dde"
 metafile = true
 
 [[files]]
@@ -1108,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/biome-spawn-point.pw.toml"
 hash = "4eac5acc79c1dbf32c4cd6241c956b96f451c0c2501ada660147a1f8357e6903"
+metafile = true
+
+[[files]]
+file = "mods/campsite.pw.toml"
+hash = "68043089c45e9f86ff3a6060cc4d7ce02e03c01a15e513480fb42843cf44506e"
 metafile = true
 
 [[files]]
@@ -1160,8 +1240,13 @@ hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
 
 [[files]]
+file = "mods/create-advanced-crafting.pw.toml"
+hash = "c9834bdacebc25bd46afa6ff730867e7f17322b8708ca777bca38d079d05855d"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-ropes.pw.toml"
-hash = "88011c2ea98ca678e5800bdfd95f45b30009223f96eabab1f06698df6af3017c"
+hash = "0e33cf792fefd09f1b5b3e6b3e922ea6ac7d86bba492c8bdd98957c5c1641b15"
 metafile = true
 
 [[files]]
@@ -1176,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronauticstoolgun.pw.toml"
-hash = "5d783c692cd11d7e065ed15a536740f344a40a7b42f5974f0e877e1752ad1c1a"
+hash = "c524f02c3c4beebf9c88042ccf1e12c96b2176c15e915a6fb836a8de08df3a1a"
 metafile = true
 
 [[files]]
@@ -1298,6 +1383,11 @@ hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "004a3096d2565fd6e184cc9fb3fcedf8fbd82caa71a174b384112da33fcc63e8"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "dae5c756a77911c18cba191b9844a3b9c20bcdd3dd55de13fc57cf9fe3b79bbe"
 metafile = true
@@ -1327,8 +1417,8 @@ file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
 hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
 
 [[files]]
-file = "mods/freshified-music-discs.pw.toml"
-hash = "d04bc4cc9079c11ff23d30ab0d4cd6b330df182729557a43deb8c822f6c277f9"
+file = "mods/fzzy-config.pw.toml"
+hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
 
 [[files]]
@@ -1343,6 +1433,11 @@ hash = "7c187eeaa56ac65d2ffd6f350c57ff98fe0f680ae23490d87882e22653a53765"
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "d480787d9c86b5abe27284195ace63101ac1ccea7f2cb39649b4dcd172932e7e"
 metafile = true
 
 [[files]]
@@ -1366,9 +1461,18 @@ hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "af8428daaf08a29dec8f58f71bcd9e32bf564203754f71b184f6ebb8b09a0c77"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-5.11.0-all.jar"
+hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
@@ -1381,8 +1485,9 @@ hash = "5af0a9561e5ab538be1c7e843b54101852830db48c0dad561965de1bfea9a584"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched-1.7.3-neoforge-21.1.jar"
-hash = "1d0cb48bf1a35b0814a6714dd1203ef1f61c291c6941e70629fb161a04935353"
+file = "mods/lithostitched.pw.toml"
+hash = "a2741c045dca01204f20bbeff802c4a518a4706e7fd2345de50d2d269d6652c4"
+metafile = true
 
 [[files]]
 file = "mods/mod-menu-neoforge-edition.pw.toml"
@@ -1409,6 +1514,11 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "c9bc26d57238cb711efc81235656be3b032e893f480f025c9733e955937d5f2c"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "28c76f903da7d4b27f029d195b0873c0c826080022f8bbb1377d8c83ccd3e47e"
 metafile = true
@@ -1426,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "2253cddf1e9a3778a893e47442378fdeea5b5604bc131b61acfcd25d1e690613"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
 metafile = true
 
 [[files]]
@@ -1466,6 +1581,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "5d1a0fefc09545d23a75f37a7cd8b7dcf817a7a57fe28f1419b19be92476dcaa"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9f0a36fc8540ac5d4b9fc3944b5dd4c0e097d0a189f84a95efc5f77cfd891c1f"
 metafile = true
 
 [[files]]
@@ -1512,6 +1637,10 @@ file = "mods/sophisticatedbackpacks-1.21.1-3.25.44.1736.jar"
 hash = "78d3edbcb51750d0c5ad5b136042cf920146e41c7423bb6b7fa17318fbd7bdd9"
 
 [[files]]
+file = "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+hash = "82013eb16e2b1ab32c87f79b5e258d42d451f42e0cfb6ee9297c21c1296daeb5"
+
+[[files]]
 file = "mods/sophisticatedcore-1.21.1-1.4.38.1847.jar"
 hash = "0ce9a44538b11472cadf9039deeff7c89cfbe9ca4e32d08692139064da69cdb7"
 
@@ -1536,6 +1665,11 @@ metafile = true
 [[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
+metafile = true
+
+[[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
 
 [[files]]
@@ -1581,6 +1715,11 @@ metafile = true
 [[files]]
 file = "mods/unnamed-desert.pw.toml"
 hash = "7e1e5acc8ae2f3a540c4c38c5faa92a395f59e359649eefb421ede5881b4eda3"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "b0a52e9ae1213ac58bc452fa09bf4f88ab2603d6368f707c94ac29276e39b2aa"
 metafile = true
 
 [[files]]

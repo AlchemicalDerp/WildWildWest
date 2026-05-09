@@ -1,4 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:tuff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:diorite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:granite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cobbled_deepslate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:deepslate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:magenta_bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:pink_bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"disccord:custom_record"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_aeronautics_toolgun:magnetic_gun"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

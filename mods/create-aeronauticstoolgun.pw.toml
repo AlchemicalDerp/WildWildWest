@@ -1,13 +1,13 @@
 name = "create aeronautics：toolgun"
-filename = "create_aeronautics_toolgun-0.1.1.jar"
+filename = "create_aeronautics_toolgun-0.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7646717c0876188efd8b4e2fb9f75bfb97784048"
+hash = "f0bdc6a945ea6512fccf8b342a52e2e2d422e3f7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8026151
+file-id = 8058197
 project-id = 1521349
