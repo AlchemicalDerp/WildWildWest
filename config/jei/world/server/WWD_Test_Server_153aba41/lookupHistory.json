@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"aeronautics:levitite_blend_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:pearlescent_levitite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:end_stone_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:levitite_blend"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:music_disc_cloud_skipper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"regions_unexplored:lime_painted_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"regions_unexplored:lime_painted_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:gyroscopic_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:gyroscopic_propeller_bearing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:propeller_bearing"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

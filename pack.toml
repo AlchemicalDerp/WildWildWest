@@ -1,12 +1,12 @@
-name = "Wild Wild West 0 . 1 . 0"
+name = "WildWestPack0.1.1"
 author = "TheSkyDude"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3e881df35bdb96801be84fd396a889d6dca10cf51fd015b86c4531aaaa66e9a5"
+hash = "a2e404cbba2732902fdce9efd34d40cc8b7f9728c776e2737fd837edbed46141"
 
 [versions]
 minecraft = "1.21.1"

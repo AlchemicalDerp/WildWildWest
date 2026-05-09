@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"supplementaries:barnacles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createhorsepower:horse_crank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:plunger_launcher"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"nova_structures:boss_behaviour":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplehats:hatscraps_common"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplehats:hatbag_common"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplehats:cowboy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -11,7 +15,6 @@
   {"ingredient":{"id":"tacz:ammo","components":{"minecraft:max_stack_size":48,"minecraft:custom_data":{"AmmoId":"hamster:medium_ammo"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tacz:ammo","components":{"minecraft:custom_data":{"AmmoId":"hamster:compact_ammo"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simulated:physics_assembler"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"simulated:plunger_launcher"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simulated:honey_glue"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tacz:workbench_b","components":{"minecraft:custom_data":{"BlockId":"hamster:oldworkbench"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:lore":["{\"italic\":false,\"text\":\"\\\"bee nott afrayed of anny man\"}","{\"italic\":false,\"text\":\"thatt walks beneath the skys\"}","{\"italic\":false,\"text\":\"tho big he bee or small you bee\"}","{\"italic\":false,\"text\":\"for I will equalize\\\"\"}"],"minecraft:custom_name":"{\"bold\":true,\"color\":\"#B7410E\",\"italic\":false,\"text\":\"Big Iron\"}","minecraft:custom_data":{"HasBulletInBarrel":1,"GunFireMode":"SEMI","GunId":"hamster:colt1873","GunCurrentAmmoCount":6}}},"type":"item_stack","bookmarkType":"INGREDIENT"},

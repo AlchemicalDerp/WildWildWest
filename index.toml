@@ -13,6 +13,10 @@ file = "config/advancementplaques.toml"
 hash = "fccc5bab6156c4c38bcdebf4b21c22488536da5631ba8d8d94e41fd5baaa7cad"
 
 [[files]]
+file = "config/aero_cam_sync-client.toml"
+hash = "ee7ebb85c85520a86e7c59e17248e4868d86cf114edc151becb151c574177d39"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
@@ -69,6 +73,10 @@ file = "config/bits_n_bobs-server.toml"
 hash = "fc6b87d500994353673065c6fde9f6dabb0e6b1c61a9db86e2a69d90a57ffb7e"
 
 [[files]]
+file = "config/climbable_ropes-server.toml"
+hash = "29064c87191330ae3eb0df8a3de65251162342a8de2c62a0cb43c8c5abdee918"
+
+[[files]]
 file = "config/collective.json5"
 hash = "1bd89e753b05ca51f7260596b5e8e8d53b6510eb39eb05c315a2e4f0d789461b"
 
@@ -111,6 +119,22 @@ hash = "d063982581108b8c7ed6c670c4f4a302abe39be7bfeb565de96b8d9d880426cd"
 [[files]]
 file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
+
+[[files]]
+file = "config/create_aeronautics_throwable_rope_connector-common.toml"
+hash = "f61524e0a910d10bf86482fb1bfd0ab6096827d6dc9c3077f0c0648dc347914e"
+
+[[files]]
+file = "config/create_aeronautics_toolgun-client.properties"
+hash = "8f56c7ecedadc1baad979d528f7af9c600ad9293d5eae4818507d47cb9da4681"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "12bf1303e43aa7d076e09dfd281b0549872275e1fed89dad2a58225fa6124a4e"
+
+[[files]]
+file = "config/create_connected-server.toml"
+hash = "ba3691bffce65d3f9e028f6878a3e0fce2285533154dc41800258298ffed85ea"
 
 [[files]]
 file = "config/createdieselgenerators-client.toml"
@@ -250,7 +274,7 @@ hash = "2f33433f38df628bf545b76e0ae5babe3efe1ad08dae14b6077a44c768072d7f"
 
 [[files]]
 file = "config/euphoria_patcher/data.json"
-hash = "2d8d6edcf97dc904d262691c01d1ec959582906f0b2a2793b03b1daed69d9657"
+hash = "33404f2a9aa4b018e96cdf170f89e66e79c6014243783df80cbd7ee0f967874b"
 
 [[files]]
 file = "config/euphoria_patcher/settings.toml"
@@ -258,7 +282,7 @@ hash = "51804b29b4e69931eea7729ec75c9e696d2a7a3e43ec7dd339290da24047abb3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e1923f8ba0e8e8f3e4941ced9160b119995e9fb3e6c52aec3b619b8d2eeeb061"
+hash = "6f8dfac6b24a585d4ee9235ab6f5f9efa67ffba9655b1f037390c16902dfa78d"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -267,6 +291,10 @@ hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -294,7 +322,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "9d406dfe0f99724ad667b72f31b2e2fd3a8a8e82f6c989c2b85e53b0c9d66ab2"
+hash = "ae699b38b0712b102fa597c72a1c99f445172dc6ac68c5bc18ab62025a84a3a1"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -310,11 +338,11 @@ hash = "1b9faa0637ce35640b258cb9a6ede6d7fbe23f3138e1f3e04167caef4f204ecc"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "0ba2bb6083a3eda8ff4e693c66f0a288e96345176e88b6fca1f428e3cbfb5223"
+hash = "db1041e0a400eb3c1826706697912c4fb2f07f2c4248c0420a8f81a7a8573a31"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "7e46e8bead6bf2353417d1b855edd38b24e77b7e6b61cdfd9c63c52267715882"
+hash = "1a5987b835edb2cfee3fcd57bf2723f6d703f2a66c9ea74c614df6e34d105015"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -326,7 +354,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "ea7842fed3f822416bc9dce495a4fde340a411a893faa0aa3ffc98644022995d"
+hash = "83224cc6307ee42ac5a9d9ddac9c0be75b07c9c1d68123720f2dadeac2238a21"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -354,7 +382,7 @@ hash = "3b6b712eb293b0c7a9023ad0f7354ab15db8d5506c85c3a66c1a3711e068c47b"
 
 [[files]]
 file = "config/jei/world/local/New_World/lookupHistory.json"
-hash = "a5e7148cd2bf4ed6e566380742984ff7e0c61d9adb20a1472553f141821c5ad9"
+hash = "bbae21086f86b5f851eb1f6888e0325b90e99331b64a0561e736c3b74150819c"
 
 [[files]]
 file = "config/jei/world/local/Test_World/bookmarks.json"
@@ -362,7 +390,23 @@ hash = "3579589215d9acaf597febb19680a671c8195956184ab16d12c56c3ed92e00df"
 
 [[files]]
 file = "config/jei/world/local/Test_World/lookupHistory.json"
-hash = "4fe6027a57128096730f88d725ffd9e4ef61f1d9ccce4bd903a2f5bfa6098767"
+hash = "3846c0854fe01f9f097f52361ff42ec4c16512124dc8e1819a298f5dddfa2658"
+
+[[files]]
+file = "config/jei/world/local/bookmarks.json"
+hash = "8070e57c9b75c77a61883e84162aa4be91544c0784192df3636ae41d097792aa"
+
+[[files]]
+file = "config/jei/world/local/d08f27e6/lookupHistory.json"
+hash = "b61fe2c9028d9e4f4f35966896f1eb923d859be6a0aeb1c0d2392a2e5cc2cffd"
+
+[[files]]
+file = "config/jei/world/local/lookupHistory.json"
+hash = "6f44c606b72f231d060959bc1be66ae653d5b576bc672249fd7424d8f40b0d03"
+
+[[files]]
+file = "config/jei/world/local/world/lookupHistory.json"
+hash = "6c2d3b5b75877311e6e640cbcfdf330cb90de0ebf13899262dde17f15b64da46"
 
 [[files]]
 file = "config/jei/world/server/Minecraft_Server_457255ab/bookmarks.json"
@@ -371,6 +415,10 @@ hash = "cf39b09dd6feae77c606e704d3fe6e99859bbc2976eb1bd7e69f53cc48ef5683"
 [[files]]
 file = "config/jei/world/server/Minecraft_Server_457255ab/lookupHistory.json"
 hash = "6578cf041b36a5a2334d135fe5131cbe19a9f95b449935875d85efe39847f0fa"
+
+[[files]]
+file = "config/jei/world/server/WWD_Test_Server_153aba41/lookupHistory.json"
+hash = "418e3d3da40b208a6c9f27aaffd8721c526f5a918ac65e5603f7f3ce33d7a995"
 
 [[files]]
 file = "config/legendarytooltips.toml"
@@ -415,6 +463,14 @@ hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
 [[files]]
 file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = "config/net_music_list.toml"
+hash = "707e2a2c94ea4b8c640666cfae113ecb84caae7bb5ae27c986002de1390a1341"
+
+[[files]]
+file = "config/netmusic-common.toml"
+hash = "837e2dcd1263b41bc1cd7e662453aad789fdacd78ce3a2c403a1f2683e4b2476"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -502,7 +558,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
@@ -546,7 +602,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "97a29cdc18ff9f2daef2ab3f3818efb09114bdb9d4ed56becac5ad7f1cdb3aa1"
+hash = "1c6131345351ceb4f8adcb19395725760e54aba94ce10804bc252b263cce412e"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -569,8 +625,12 @@ file = "config/steampowered-common.toml"
 hash = "cea4ab3acf68ed0fad3a228ff892a7eca50601244d68f2ea1b116e06a60e7540"
 
 [[files]]
-file = "config/supplementaries-client.toml"
+file = "config/supplementaries-client-1.toml.bak"
 hash = "bf2b1a9bafdf64e51819968431d0472e47a5ca311c528a526bf76b0b63fb6e10"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "63579000e9d0c046e2863101e52d7ef3be34f3c12ca3d569f7e076f777087444"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -686,7 +746,11 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81"
+hash = "67f8359fe837711c2114abbfd940a28f75af76adf9372a9e785deceb307bad48"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -714,7 +778,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaerohud.txt"
-hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+hash = "ac2d7a85bffeed4a2b2f262c3c3a7a67376bb138dd8b2249031c9f896b309d31"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -722,7 +786,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "hotbar.nbt"
-hash = "75020df8a89f25d9aae3b51574eccce7448b3e44e5a1834117557a24acb24510"
+hash = "fe2c91517fd1be297f3fb31544cbb0abcaa81996a1bb274e3c1efc794fa5eaad"
 
 [[files]]
 file = "mods/.connector/patch_audit.txt"
@@ -1007,8 +1071,9 @@ hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
 metafile = true
 
 [[files]]
-file = "mods/aerocopycats-1.1.0.jar"
-hash = "7a3c2e1b21dffabc5681522bc8dbbe275e73d8f96d01e0dbc57e115fb61f63bb"
+file = "mods/aeronautics-camera-sync.pw.toml"
+hash = "511e03e3df7c881ba5730640507ee2dd49341fe659ea689d01b703fdc6d46dde"
+metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -1037,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
+hash = "f79d87a72026b5aef024b44cf5eedd9edb568a19f81403d20681eeb3364c3647"
 metafile = true
 
 [[files]]
@@ -1067,7 +1132,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "476cf6c6e93952425fa9de4cb7fd405994a337dfbe9e8ebfda83e12352d31b64"
+hash = "3c5f7edea027f0da74058bdb40b4e333d41df0246c1a8ebcf7df160c34565402"
 metafile = true
 
 [[files]]
@@ -1085,13 +1150,33 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
+file = "mods/copycats-aeronautics-weight.pw.toml"
+hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-ropes.pw.toml"
+hash = "88011c2ea98ca678e5800bdfd95f45b30009223f96eabab1f06698df6af3017c"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
+hash = "ade33757dd4f8c98d02cbcaa03f74f91aaf099d82d8082130758ff15e482b1d5"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronauticstoolgun.pw.toml"
+hash = "5d783c692cd11d7e065ed15a536740f344a40a7b42f5974f0e877e1752ad1c1a"
 metafile = true
 
 [[files]]
@@ -1102,6 +1187,11 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "c35bc6385cac0836f60c3d009ba67ec1aefbb90fbd7782133f3ecf1e38f07dad"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "de06ec95bb70a143578f55fa857af0e7c84ecdecd421a10ce3edb2737823ba39"
 metafile = true
 
 [[files]]
@@ -1138,6 +1228,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
+
+[[files]]
+file = "mods/create_connected-1.1.16-mc1.21.1.jar"
+hash = "624415b891764ef57e6979520e0656f1b429f8b4ed69505aee91274c56c4a7fc"
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
@@ -1219,6 +1313,11 @@ hash = "3e92a40a7d790339afb8438366c5d4590a5113873dc7e434a4f8357cc07bb80a"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
 file = "mods/feur-extension-desert.pw.toml"
 hash = "77bacc77120639b9800469e10489b3cbbc938c58fb6fc2393c71b38108c572f2"
 metafile = true
@@ -1228,13 +1327,18 @@ file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
 hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
 
 [[files]]
+file = "mods/freshified-music-discs.pw.toml"
+hash = "d04bc4cc9079c11ff23d30ab0d4cd6b330df182729557a43deb8c822f6c277f9"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-neoforge-1.21.1-1.0.35.jar"
-hash = "86961d4c628344545492c0a4c45c92fd1ea9d8db6863174d0be49d9edccb23b1"
+file = "mods/gravestone-neoforge-1.21.1-1.0.37.jar"
+hash = "7c187eeaa56ac65d2ffd6f350c57ff98fe0f680ae23490d87882e22653a53765"
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -1277,9 +1381,8 @@ hash = "5af0a9561e5ab538be1c7e843b54101852830db48c0dad561965de1bfea9a584"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "daae831820f5b1c8ac4618fc8c44bc6336809e9889bce7c184eaf6c7d927f14f"
-metafile = true
+file = "mods/lithostitched-1.7.3-neoforge-21.1.jar"
+hash = "1d0cb48bf1a35b0814a6714dd1203ef1f61c291c6941e70629fb161a04935353"
 
 [[files]]
 file = "mods/mod-menu-neoforge-edition.pw.toml"
@@ -1292,8 +1395,12 @@ hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight-neoforge-1.21.1-3.0.6.jar"
+hash = "0e99aa79cbda859d09c70050e5932ff1bfec524346b8754a977ce72722cfc940"
+
+[[files]]
 file = "mods/more-delight-forge.pw.toml"
-hash = "0b8eedf9c3e3e7da662a4f2678e8ce8551121999b1302a29b143aabf09d7dd37"
+hash = "6bd82248d3b049c687ea62584ea5fb841e878b87b8ecf6ba914e4cf0a22c32d3"
 metafile = true
 
 [[files]]
@@ -1318,17 +1425,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "79c1e8f90db5559d703ab7a43227573d74a8de59232c6c8bee348a582967e741"
+hash = "2253cddf1e9a3778a893e47442378fdeea5b5604bc131b61acfcd25d1e690613"
 metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "5328219480c6d7aa255c6288f2839b683ffc1bcc52449383244cd11cfbf85f83"
-metafile = true
-
-[[files]]
-file = "mods/project-1519112.pw.toml"
-hash = "b411476e20d88709203e173f0f2da47efe4e7773e08e460e54d4ec0885aaf5d3"
 metafile = true
 
 [[files]]
@@ -1381,11 +1483,6 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
-metafile = true
-
-[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
 metafile = true
@@ -1411,12 +1508,12 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar"
-hash = "3b9155b2836d99856fab610c9e28e48724bc2f10c17d2529a6af55d476378390"
+file = "mods/sophisticatedbackpacks-1.21.1-3.25.44.1736.jar"
+hash = "78d3edbcb51750d0c5ad5b136042cf920146e41c7423bb6b7fa17318fbd7bdd9"
 
 [[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.32.1794.jar"
-hash = "46fefc1f14cd52d000b71b0997e3ed4986f87b53e1317dc9f8637025d7085708"
+file = "mods/sophisticatedcore-1.21.1-1.4.38.1847.jar"
+hash = "0ce9a44538b11472cadf9039deeff7c89cfbe9ca4e32d08692139064da69cdb7"
 
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
@@ -1453,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
+hash = "98d78c67c203a2c4ee387326c38edfcbe92a813346920b7762f607e1537ed4ea"
 metafile = true
 
 [[files]]
@@ -1502,12 +1599,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "85d6b116578d44c074435499759f7be6090f1b2c131f129ae3127939591c1b78"
+hash = "d6e007f5dfe86aaf2451e403d40211ddd2ac526ceab49a3929bded51b5658e0a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "01562e27f0c92ebf98eb6aaaace3c14fef18c734a6c65bda8101b8d3c640e12f"
+hash = "c129b31143323e9a97c616a8f67fcd3e9db422fa15ec9b50476131a226c3caf2"
 metafile = true
 
 [[files]]
@@ -9963,3 +10060,7 @@ hash = "fd675c36ce192dec5d56e5d5e5dd8380deac32071007847a380d3e91e7e92472"
 [[files]]
 file = "tacz/tacz_default_gun/gunpack.meta.json"
 hash = "5419a196ae5d34b22b9209369cd70147ac889ed45facb46e527f35ad7633f8d7"
+
+[[files]]
+file = "unsup.ini"
+hash = "e81ac5a07483e9c258b8f152b55b32637e05f4b5b40a2172b0d264df24dc61e3"

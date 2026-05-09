@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Throwable Rope Connector"
+filename = "create_aeronautics_throwable_rope_connector-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e196fd89fabd50abb0c9f5fc9a4bfa70ae13c4c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8051957
+project-id = 1529882
